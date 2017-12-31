@@ -1,4 +1,4 @@
-package imcs.syed.OrderLib;
+package com.syed.OrderLib;
 
 import junit.framework.Test;
 import junit.framework.TestCase;
